@@ -1,6 +1,6 @@
 ---
 created: 2025-05-09T16:29:38-05:00
-modified: 2025-05-09T16:30:03-05:00
+modified: 2025-05-09T16:30:53-05:00
 ---
 
 # Saramago
@@ -18,6 +18,4 @@ Ensayo sobre la ceguera
 El Evangelio según Jesucristo
 La caverna
 Caín
-El hombre duplicado
-
-¿Quieres una recomendación para empezar a leerlo, un resumen de alguna obra o algo más específico?
+El hombre duplicado.
